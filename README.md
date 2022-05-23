@@ -1,5 +1,27 @@
 # 高一数学建模活动_共享单车
 
+#### 参考资料
+ - 数学建模2015B “互联网+”时代的出租车资源配置论文1B27002-B013解读
+   https://blog.csdn.net/Weary_PJ/article/details/107355374  
+ - 2015年全国大学生数学建模竞赛b题全国一等奖优秀论文
+   https://www.docin.com/p-1344846748.html
+   https://www.docin.com/p-1361452743.html
+ - 如何评价2015年高教杯数学建模B题？
+   https://www.zhihu.com/question/35651324
+ - 数学建模算法代码参考与模板
+   https://github.com/personqianduixue/Math_Model/
+   https://github.com/QInzhengk/Math-Model-and-Machine-Learning
+ - 数学建模资料
+   https://zhuanlan.zhihu.com/p/394139440
+ - 共享单车数据
+   https://www.kaggle.com/c/bike-sharing-demand/data
+ - 参考论文
+
+1..https://wws.lanzout.com/ixsiC05b0epg
+密码:30e5
+
+2.https://wws.lanzout.com/isBaZ05b0eri
+密码:5rs3
 
 ## 项目编辑注意事项
 1.未经审核或者不清楚能否得出正确结论的想法，代码和数据文件提交到develop分支下，由组长决定是否合并branch，所有人设定管理员权限是因为我相信权限带来责任，不应该妨碍大家做任何操作。
@@ -92,22 +114,6 @@
  - logit model
 
  - 机理分析法
-
-#### 参考资料
- - 数学建模2015B “互联网+”时代的出租车资源配置论文1B27002-B013解读
-   https://blog.csdn.net/Weary_PJ/article/details/107355374  
- - 2015年全国大学生数学建模竞赛b题全国一等奖优秀论文
-   https://www.docin.com/p-1344846748.html
-   https://www.docin.com/p-1361452743.html
- - 如何评价2015年高教杯数学建模B题？
-   https://www.zhihu.com/question/35651324
- - 数学建模算法代码参考与模板
-   https://github.com/personqianduixue/Math_Model/
-   https://github.com/QInzhengk/Math-Model-and-Machine-Learning
- - 数学建模资料
-   https://zhuanlan.zhihu.com/p/394139440
- - 共享单车数据
-   https://www.kaggle.com/c/bike-sharing-demand/data
 
 ### **题目名称**：互联网+时代的共享单车资源配置与调度
 
